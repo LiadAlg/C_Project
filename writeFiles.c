@@ -27,7 +27,6 @@ bool writeFileProccess(char* fileName, int ic, int dc, SymbolTable* symbolTable,
 	free(fileName_ob);
 	free(fileName_ent);
 	free(fileName_ext);
-
 	return isSucceed;
 }
 
