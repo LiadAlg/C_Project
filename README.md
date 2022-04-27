@@ -11,7 +11,7 @@ This project is an assignment in a C programming course at the open unvieristy. 
 5. **analizeWord** - contains useful functions for processing code and instruction.
 6. **macroDeploy** - contains useful functions for deploy macros, writing output file *.am
 7. **global.h** - contains type and constant definitions.
-8. **writefiles** - contains methods for writing output files: *.ob, *.ext and *.ent
+8. **writeFiles** - contains methods for writing output files: *.ob, *.ext and *.ent
 
 # usage
 ./assembler file1 file2 file3 ... Will start the processing of each file (specify WITHOUT extension!). No support for double-quoting file names.
