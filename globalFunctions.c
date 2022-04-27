@@ -1,8 +1,7 @@
 #include "globalFunctions.h"
 
 /*same as strcat, but using malloc and make sure success*/
-char* strcatChecked(char* str1, char* str2)
-{
+char* strcatChecked(char* str1, char* str2){
 	char* str = (char*)malloc(sizeof(char) * (strlen(str1) + strlen(str2) + 1));
 	if (str == NULL) {
 		printf("ERROR MALLOC: cannot allocating memory\n");
