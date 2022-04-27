@@ -1,4 +1,4 @@
-# C_Project
+# C_Project: 20-bit assembler
 
 # about
 This project is an assignment in a C programming course at the open unvieristy. The purpose of this project is to build an assembler for 16-instruction asssembly language, for an imaginary 20-bit CPU and 20 KB of memory size. 
