@@ -8,6 +8,7 @@ This project is an assignment in a C programming course at the open unvieristy. 
 2. **first_pass** - contains functions for processing a single line in the first pass and a code line in the first pass.
 3. **second_pass** - contains function for processing a single line in second pass and replacing symbol by it's address.
 4. **globalFunctions** - contains useful functions for processing code.
-5. **macroDeploy** - contains useful function for deploy all macros.
-6. **global.h** - contains type and constant definitions.
-7. **writefiles** - contains methods for writing output files: *.ob, *.ext and *.ent
+5. **analizeWord** - contains useful functions for 
+6. **macroDeploy** - contains useful function for deploy all macros.
+7. **global.h** - contains type and constant definitions.
+8. **writefiles** - contains methods for writing output files: *.ob, *.ext and *.ent
